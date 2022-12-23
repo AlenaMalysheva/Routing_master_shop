@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav_menu {
+    background-color: rgb(98, 174, 149);
+    display: flex;
+    justify-content: center;
+    padding: 30px 200px;
+    gap: 20px;
+}
+
+.nav_menu a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
